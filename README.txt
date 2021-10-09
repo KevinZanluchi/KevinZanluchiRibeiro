@@ -4,3 +4,6 @@ Na parte do tutorial foi elaborado o enunciado visando trabalhar a interpretaç�
 
 Observações: 
 Usei TextMeshPro.
+
+Link do drive com a build do jogo:
+https://drive.google.com/drive/folders/1F_5YngQn6A8g14TwupZLzRIkkKwesVL_?usp=sharing
